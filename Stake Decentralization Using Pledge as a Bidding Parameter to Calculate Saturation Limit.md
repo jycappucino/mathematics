@@ -79,7 +79,7 @@ Distribution of **_α<sub>unc</sub>_** based, yet again, on the proportion of pl
 * **_α<sub>unc</sub>_**  = 0 (we will deal with nonzero values later)
 * **_φ_** = 33B (current ADA in circulation)\
   \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **_α<sub>unc</sub>_** = $\frac{33B}{3119}$ $e^{1 - 47,205/47,205}$ = $\frac{33B}{3119}$ = 10.6M\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **_α_** = $\frac{33B}{3119}$ $e^{1 - 47,205/47,205}$ = $\frac{33B}{3119}$ = 10.6M\
 \
 **Conclusion**: Epoch 321 saturation limit for pools with at least 47,205 ADA in pledge is 10.6M (at **_n_** = 15). The ratio 33B/3119 guarantees that every ADA in circulation has a pool to stake to without risking oversaturation. Note that the current average stake per pool is only 7.6M, suggesting that a vast number of pools are not adequately staked. Setting the saturation limit, on average, to 10.6M would make some large pools to become oversaturated which will encourage delegators of these pools to move their stakes to small pools.\
 &nbsp;
